@@ -1,0 +1,12 @@
+{
+    "name": "burstsms/php-client",
+    "description": "PHP Client for BurstSMS",
+    "homepage": "http://nzl.transmitsms.com/api-docs/2/quick-start/overview",
+    "type": "library",
+    "authors": [
+    	{
+	    	"name": "BurstSMS",
+	    	"homepage": "http://www.burstsms.com"
+	    }
+    ]
+}
