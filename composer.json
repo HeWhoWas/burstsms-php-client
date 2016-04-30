@@ -8,5 +8,10 @@
 	    	"name": "BurstSMS",
 	    	"homepage": "http://www.burstsms.com"
 	    }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "BurstSMS\\": "src"
+        }
+    },
 }
